@@ -27,7 +27,7 @@ How: The data was collected through server logs.
 ## Team Members
 
 - Edward: I am a huge nerd who loves video games, anime and Marvel!
-- Person 2: one sentence about you!
+- Daniel: I also enjoy an unhealthy amount of entertainment most of the time all the time
 - Person 3: one sentence about you!
 
 ## References

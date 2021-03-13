@@ -49,3 +49,28 @@ def load_and_process(url_or_path_to_csv_file):
     )
 
     return df5
+
+def most_followers_gained(url):
+    
+    df1 = (
+        pd.read_csv(url)
+        .drop("profile picture", axis=1)
+        .drop("completa name", axis=1)
+        .drop("top count", axis=1)
+        .drop("watch time", axis=1)
+        .drop("peak viewers", axis=1)
+        .drop("stream time", axis=1)
+        .drop("average viewers", axis=1)
+        .drop("followers", axis=1)
+        .drop("partnered", axis=1)
+        .drop("mature", axis=1)
+        .drop("language", axis=1)
+        .drop("first category", axis=1)
+        .drop("second category", axis=1)
+        .drop("third category", axis=1)
+    )
+    
+    df1.sort_values(by=['followers gained'], ascending=False)
+    
+    return df1
+    

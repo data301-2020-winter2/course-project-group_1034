@@ -18,11 +18,11 @@ We would like to explore the difference between continous growth from the top st
 The simple answeer is yes. We understand that we have plenty to learn to be able to achieve this; however, this dataset will set us up for success. 
 
 ## Describe your dataset in about 150-200 words
-Who: The dataset was pulled from Kaggle from a publisher known by GIRLaZo.
-What: We have chosen a dataset that reflects our interest in the online platform Twitch. Twitch is a medium for "streamers" to interact with others globally who share the same love/passion for their desired streamed topic. The dataset has 8800 streamers with 7 unique categories of comparison. These categories are: watch time, stream time, peak viewers, average viewers, followers, followers gained and views gained.
-When: 2020-10-22
-Why: This dataset is for public interest, brands who are interested in influencers, and competing streamers.
-How: The data was collected through server logs.
++ Who: The dataset was pulled from Kaggle from a publisher known by GIRLaZo.
++ What: We have chosen a dataset that reflects our interest in the online platform Twitch. Twitch is a medium for "streamers" to interact with others globally who share the same love/passion for their desired streamed topic. The dataset has 8800 streamers with 7 unique categories of comparison. These categories are: watch time, stream time, peak + viewers, average viewers, followers, followers gained and views gained.
++ When: 2020-10-22
++ Why: This dataset is for public interest, brands who are interested in influencers, and competing streamers.
++ How: The data was collected through server logs.
 
 ## Team Members
 

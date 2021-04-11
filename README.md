@@ -13,7 +13,8 @@ We hope to compare the top Twitch streamers and their current status of growth a
 ### Why are you interested in this topic or dataset?
 The members of this project have used Twitch whether that was to watch other streamers or to stream themselves. This topic is a shared interest that we all agreed would be enjoyable to do.
 ### Do you have any questions you specifically want to explore?
-We would like to explore the difference between continous growth from the top streamers of the dataset compared to the lower portion of the dataset. THis is especially interesting as we want to see if their is any "bottlenecking" occuring when a streamer reaches a certain size.
++ We would like to explore the difference between continous growth from the top streamers of the dataset compared to the lower portion of the dataset. This is especially interesting as we want to see if their is any "bottlenecking" occuring when a streamer reaches a certain size.
++ We want to explore whcih games are the most streamed by the top streamers.
 ### Could you imagine building a user-facing Dashboard with this dataset?
 The simple answeer is yes. We understand that we have plenty to learn to be able to achieve this; however, this dataset will set us up for success. 
 
